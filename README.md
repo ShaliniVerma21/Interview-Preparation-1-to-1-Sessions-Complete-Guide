@@ -50,75 +50,51 @@ This group is dedicated to guiding students step by step for successful intervie
 ---
 
 ## 📚 Repository Structure  
+
 📂 Interview-Preparation-1-to-1-Sessions-Complete-Guide
+
 ┣ 📂 Technical
+
 ┃ ┣ 📄 Frontend_Questions.md
+
 ┃ ┣ 📄 Data_Analytics.md
+
 ┃ ┣ 📄 Data_Science.md
+
 ┃ ┣ 📄 Python_FullStack.md
+
 ┃ ┣ 📄 Java_FullStack.md
+
 ┃ ┗ 📄 MERN_Stack.md
+
 ┣ 📂 HR
+
 ┃ ┣ 📄 HR_Questions.md
+
 ┃ ┣ 📄 Behavioral.md
+
 ┗ 📂 Career
+
 ┃ ┣ 📄 Resume_Building.md
+
 ┃ ┣ 📄 LinkedIn_Guide.md
+
 ┃ ┗ 📄 Industry_Insights.md
+
 ┣ 📂 Mock-Interviews
+
 ┃ ┣ 📄 Session_1.md
+
 ┃ ┣ 📄 Session_2.md
+
 ┗ 📄 README.md
 
 
-
 ---
 
-## 🖼️ Visuals  
+## ⚡ Quick Start  
 
-### 💻 Technical Preparation  
-![Technical](https://img.icons8.com/fluency/96/code.png)  
-
-### 💼 HR & Soft Skills  
-![HR](https://img.icons8.com/fluency/96/conference.png)  
-
-### 🚀 Career Growth  
-![Career](https://img.icons8.com/fluency/96/career-ladder.png)  
-
----
-
-## 🌍 Who Is This For?  
-
-- 🎓 **Beginners & Freshers** preparing for their first job  
-- 👩‍💻 **Developers & Analysts** aiming for career growth  
-- 📊 **Data Science & Analytics learners**  
-- 🌐 **Full Stack (Python/Java/MERN) aspirants**  
-- 🏢 **Professionals & Career Switchers**  
-- 💼 Anyone looking to **ace interviews & build confidence**  
-
----
-
-## 📲 Join & Connect  
-
-📌 **Join, learn, and grow with us!**  
-💼 **Connect on LinkedIn:** [Shalini Verma](https://www.linkedin.com)  
-📧 **Contact:** shalini.verma.cpt.fsd.2025@gmail.com  
-
-⚡ Stay punctual, consistent, and engaged.  
-🚀 Let’s prepare smartly, achieve goals, and crack interviews with confidence!  
-
----
-
-## 🤝 Contributing  
-
-We welcome contributions! 🚀  
-- Add **new interview questions**  
-- Share **coding problems**  
-- Contribute **career tips & success stories**  
-
-Fork → Improve → Pull Request ✅  
-
----
-
-⭐ **If this repo helps you, give it a Star!** ⭐  
-
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/USERNAME/Interview-Preparation-1-to-1-Sessions-Complete-Guide.git
+   cd Interview-Preparation-1-to-1-Sessions-Complete-Guide
