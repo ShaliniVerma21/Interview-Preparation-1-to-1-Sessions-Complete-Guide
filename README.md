@@ -109,16 +109,6 @@ This group is dedicated to guiding students step by step for successful intervie
 
 ---
 
-## 📌 Keywords (SEO Boost)  
-
-`Interview Preparation` `Mock Interviews` `HR Questions` `Behavioral Interviews`  
-`Resume Building` `LinkedIn Optimization` `Career Guidance`  
-`Front-End Interview` `Data Analytics Interview` `Data Science Interview`  
-`Python Full Stack Interview` `Java Full Stack Interview` `MERN Stack Interview`  
-`Job Preparation Guide` `Professional Growth`  
-
----
-
 ## 🤝 Contributing  
 
 We welcome contributions! 🚀  
